@@ -32,7 +32,7 @@
 # print(x)
 # print(car)
 
-                            #method of dect
+# method of dect
 
 # clear()	Removes all the elements from the dictionary
 # copy()	Returns a copy of the dictionary
@@ -46,5 +46,5 @@
 # update()	Updates the dictionary with the specified key-value pairs
 # values()	Returns a list of all the values in the dictionary
 
-set ={"dipanshu",10,15.9,True,"hello wold"}
+set = {"dipanshu", 10, 15.9, True, "hello wold"}
 print(set)
