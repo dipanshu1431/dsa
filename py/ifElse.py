@@ -22,7 +22,7 @@ else :
 
 #chake whether a porsion is eligoible to vote
 z=int(input("Enter Age: "))
-if (z<=18):
+if (z>18):
     print("Your age is ",z ," You are eligoible to vote")
 else :
     print("Your age is ",z ," You are not eligoible to vote")

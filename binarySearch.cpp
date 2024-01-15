@@ -30,7 +30,7 @@ int BinarySearch(int arr[], int element, int size)
 int main()
 {
     int arry[] = {1, 3, 5, 6, 8, 9, 12, 13, 23, 45, 500, 801};
-    int element = 1;
+    int element = 801;
     int size = sizeof(arry) / sizeof(int);
     int index = BinarySearch(arry, element, size);
     cout << "Number Present in index = "<< index ;

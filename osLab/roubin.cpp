@@ -11,7 +11,7 @@ int main()
         scanf("%d",p[i]);
 
     }
-    printf("enter the brust time\n");
+    printf("enter the brust time\n");n 
     for(i=0;i<n;i++)
     {
         scanf("%d",bt[i]);

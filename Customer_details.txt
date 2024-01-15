@@ -1,0 +1,17 @@
+
+
+	*********** DriveOut Rentals ***********
+	               RECEIPT                                    
+
+	 CUSTOMER DETAILS: 
+
+	 CUSTOMER NAME :   
+
+	 CONTACT : 
+
+	____________________________
+
+	 TYPE OF CAR        DAYS                COST                TOTAL  
+        ____________________________
+
+	
